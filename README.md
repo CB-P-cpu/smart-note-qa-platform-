@@ -1,4 +1,4 @@
-# smart-note-qa-platform-
+# smart-note-qa-platform
 # 智能学习笔记与问答平台
 > 毕业设计项目：基于SpringBoot + Vue3的前后端分离学习笔记系统
 
